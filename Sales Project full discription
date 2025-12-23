@@ -1,1 +1,66 @@
+📊 Sales Data Analysis and Visualization Project
+📌 Project Overview
 
+This project focuses on performing Exploratory Data Analysis (EDA) on a sales dataset to uncover meaningful insights about customer behavior and sales performance. The analysis helps understand how different customer attributes influence purchasing patterns and revenue generation.
+
+The project is implemented using Python and visualized using Matplotlib and Seaborn, making the insights easy to interpret and business-friendly.
+
+🎯 Objectives
+
+Analyze customer demographics such as Gender, Age Group, and Marital Status
+
+Identify high-revenue States, Occupations, and Product Categories
+
+Understand purchasing trends across different customer segments
+
+Create clear and visually appealing charts for data-driven decision making
+
+🛠️ Tools & Technologies Used
+
+Python
+
+Pandas – Data cleaning and manipulation
+
+Matplotlib – Data visualization
+
+Seaborn – Statistical and advanced plots
+
+Google Colab – Development environment
+
+📈 Analysis Performed
+
+Gender-wise and Marital Status-wise customer distribution using count plots and pie charts
+
+Total sales analysis by:
+
+Gender
+
+Age Group
+
+State
+
+Occupation
+
+Product Category
+
+Marital Status
+
+Visualization of insights using bar plots, pie charts, and subplots
+
+🔍 Key Insights
+
+Female customers contribute more to total sales compared to male customers
+
+The 26–35 and 36–45 age groups generate the highest revenue
+
+States like Uttar Pradesh, Maharashtra, Karnataka, and Delhi are major sales contributors
+
+Customers from IT, Banking, Aviation, and Healthcare sectors show higher spending behavior
+
+Product categories such as Food, Clothing & Apparel, Electronics, and Footwear generate maximum sales
+
+Single customers contribute higher total sales than married customers
+
+📊 Conclusion
+
+This project demonstrates how data analysis and visualization can be used to extract actionable business insights. The findings can help organizations improve marketing strategies, customer targeting, inventory planning, and sales optimization. It highlights the importance of data-driven decision-making in real-world business scenarios.
